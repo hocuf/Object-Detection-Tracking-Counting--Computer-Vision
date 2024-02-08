@@ -1,4 +1,8 @@
-# Real-Time Object Detection and Tracking Project
+# Real-Time Object Detection, Tracking and Counting Project
+
+
+
+https://github.com/hocuf/Object-Detection-Tracking-Counting--Computer-Vision/assets/92105996/15a490a9-7216-47eb-a88a-d209f5ee8fce
 
 
 This project utilizes the Ultralytics YOLO model to perform real-time object detection and tracking, focusing on specific classes such as cars and persons. It uniquely visualizes bounding boxes, scores, and IDs on detected objects while also evaluating system performance through comprehensive metrics. The modular coding approach enhances extendibility and reusability.
@@ -22,6 +26,10 @@ Note: Due to GitHub's limitations, direct video playback in the README is not su
 ## Getting Started
 
 Follow these simple steps to get a local copy up and running.
+
+## Performance Display
+
+![performance_metric](https://github.com/hocuf/Object-Detection-Tracking-Counting--Computer-Vision/assets/92105996/c630be25-0175-4ad2-a3af-e24b671766f9)
 
 ### Prerequisites
 
