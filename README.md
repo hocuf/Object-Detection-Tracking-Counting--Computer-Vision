@@ -47,8 +47,7 @@ Follow these simple steps to get a local copy up and running.
 
 * Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/yourprojectname.git
-
+   git clone https://github.com/hocuf/Object-Detection-Tracking-Counting--Computer-Vision.git
 * To run the main script and start processing your video feed:
    ```sh
    python main.py
